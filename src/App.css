@@ -40,6 +40,10 @@
   padding: 0 20px;
 }
 
+.App-search-content small {
+  text-align: left;
+}
+
 .App-images-content {
   display: flex;
   justify-content: center;
@@ -65,4 +69,34 @@
 
 .col-images a {
   padding: 0 10px;
+}
+
+
+@media (max-width: 650px) {
+  .App-search-content {
+    align-items: center;
+    width: 80%;
+    margin: 0 10%;
+  }
+
+  .App-search-content input {
+    width: 100%;
+  }
+
+  .App-search {
+    width: 80%;
+    padding: 0 10%;
+  }
+
+  .App-images-search .col-images a {
+    margin: 15px 0;
+  }
+
+  .App-images-search .col-images img {
+    width: 90%;
+  }
+
+  .col-images a {
+    padding: 0;
+  }
 }
