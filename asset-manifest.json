@@ -1,5 +1,5 @@
 {
-  "main.css": "/API-Unsplash/static/css/main.931307ec.chunk.css",
+  "main.css": "/API-Unsplash/static/css/main.8660bce1.chunk.css",
   "main.js": "/API-Unsplash/static/js/main.1c15937d.chunk.js",
   "main.js.map": "/API-Unsplash/static/js/main.1c15937d.chunk.js.map",
   "runtime~main.js": "/API-Unsplash/static/js/runtime~main.d3bf0475.js",
@@ -7,8 +7,8 @@
   "static/js/2.89edce0c.chunk.js": "/API-Unsplash/static/js/2.89edce0c.chunk.js",
   "static/js/2.89edce0c.chunk.js.map": "/API-Unsplash/static/js/2.89edce0c.chunk.js.map",
   "index.html": "/API-Unsplash/index.html",
-  "precache-manifest.c10800da7a2b85bc6636f740171f829d.js": "/API-Unsplash/precache-manifest.c10800da7a2b85bc6636f740171f829d.js",
+  "precache-manifest.bdc0a41605ea420884c903b614a3be14.js": "/API-Unsplash/precache-manifest.bdc0a41605ea420884c903b614a3be14.js",
   "service-worker.js": "/API-Unsplash/service-worker.js",
-  "static/css/main.931307ec.chunk.css.map": "/API-Unsplash/static/css/main.931307ec.chunk.css.map",
+  "static/css/main.8660bce1.chunk.css.map": "/API-Unsplash/static/css/main.8660bce1.chunk.css.map",
   "static/media/App.css": "/API-Unsplash/static/media/bg.0534ae1c.jpg"
 }

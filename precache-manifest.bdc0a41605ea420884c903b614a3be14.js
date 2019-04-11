@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/API-Unsplash/static/js/runtime~main.d3bf0475.js"
   },
   {
-    "revision": "f6cc6a5c1f88b72df0ce",
+    "revision": "fbb440efdfa6b87ed441",
     "url": "/API-Unsplash/static/js/main.1c15937d.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/API-Unsplash/static/js/2.89edce0c.chunk.js"
   },
   {
-    "revision": "f6cc6a5c1f88b72df0ce",
-    "url": "/API-Unsplash/static/css/main.931307ec.chunk.css"
+    "revision": "fbb440efdfa6b87ed441",
+    "url": "/API-Unsplash/static/css/main.8660bce1.chunk.css"
   },
   {
-    "revision": "d51a90464c957a0a45c94e121d4550e5",
+    "revision": "2d780064229d90414652fb03a986d220",
     "url": "/API-Unsplash/index.html"
   }
 ];
